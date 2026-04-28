@@ -8,7 +8,7 @@
 
 I am **Muhammed Soliman**, a Software Engineer specializing in building high-performance systems and scalable architectures.
 
-With **over 5 years** of hands-on experience, I design and develop robust backend systems with a strong focus on low-level performance and efficiency. I combine solid expertise in C/C++ and Linux environments with modern enterprise solutions using .NET and Python.
+With **over 5 years** of hands-on experience, I design and develop robust backend systems with a strong focus on low-level performance and efficiency. I combine solid expertise in C/C++ and Linux environments with modern enterprise solutions using .NET, Python, PHP, and Node.js.
 
 * 🔭 **Currently Focusing On:** High-Performance Backend, Microservices, and Scalable Systems  
 * 💻 **Core Expertise:** C/C++, System Programming, and Performance Optimization  
@@ -26,11 +26,15 @@ With **over 5 years** of hands-on experience, I design and develop robust backen
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Backend & Enterprise**
+**Backend Frameworks & Enterprise**
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **Databases & DevOps**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
