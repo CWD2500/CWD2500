@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Muhammed%20Soliman&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20System%20Architect&descSize=25" width="100%" />
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+🚀;7.5+Years+of+Experience;C%2B%2B%2C+Backend+%26+Systems+Expert;Building+Scalable+Architectures;Always+learning+new+technologies" alt="Typing SVG" />
@@ -80,7 +77,7 @@ I am Muhammed Soliman <b>Software Engineer</b> with over <b>7.5 years</b> of dee
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+
 </details>
 
 <details open>
@@ -91,7 +88,7 @@ I am Muhammed Soliman <b>Software Engineer</b> with over <b>7.5 years</b> of dee
 <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/adobe%20xd-%23FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+
 </details>
 
 <details open>
@@ -103,7 +100,6 @@ I am Muhammed Soliman <b>Software Engineer</b> with over <b>7.5 years</b> of dee
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-<img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </details>
 
 <details open>
@@ -114,7 +110,6 @@ I am Muhammed Soliman <b>Software Engineer</b> with over <b>7.5 years</b> of dee
 <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/dynamodb-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
 </details>
 
 <details open>
@@ -125,8 +120,8 @@ I am Muhammed Soliman <b>Software Engineer</b> with over <b>7.5 years</b> of dee
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/github_actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+
+
 </details>
 
 ---
@@ -156,71 +151,40 @@ I am Muhammed Soliman <b>Software Engineer</b> with over <b>7.5 years</b> of dee
 
 ---
 
-### 🎓 Certifications & Achievements
 
-<div align="center">
-  <img src="https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified" width="60" />
-  <img src="https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bd/image.png" alt="Kubernetes" width="60" />
-  <img src="https://images.credly.com/size/100x100/images/fc1352af-87fa-4947-ba54-398a0e63322e/azure-data-fundamentals-600x600.png" alt="Azure" width="60" />
-</div>
+
+
 
 <br/>
 
 <div align="center">
   
-[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
-[![Kubernetes Certified](https://img.shields.io/badge/Kubernetes-Certified_Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.cncf.io/certification/ckad/)
-[![Microsoft Certified](https://img.shields.io/badge/Microsoft-Certified_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/)
+
 
 </div>
 
----
 
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building High-Performance Microservices with C++](https://yourblog.com/post1)
-- [System Design Patterns for Scalable Architectures](https://yourblog.com/post2)
-- [Optimizing Linux Kernel for Backend Services](https://yourblog.com/post3)
-- [From Monolith to Microservices: A Journey](https://yourblog.com/post4)
-<!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default" width="300" />
-</div>
-
----
 
 ### 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammed-soliman-b95635335" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@your-channel" target="_blank">
+  <a href="https://www.youtube.com/@Learnprogramming_codeforsyria" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:codeforsyrian@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourblog.com" target="_blank">
+  <a href="https://qwerty-3t4hui29g-muhammed-solimans-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
   <a href="https://github.com/CWD2500" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://discord.gg/your-invite" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+
 </div>
 
----
 
-### 🎯 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
-```text
-C++        12 hrs 45 mins  █████████████████░░░░░░░░   68.4%
-Python     4 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   23.2%
-Go         1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   6.7%
-Rust       30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
