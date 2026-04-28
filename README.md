@@ -6,9 +6,9 @@
 
 ### 👋 About Me
 
-I am **Muhammed Soliman**, a Software Engineer specializing in building high-performance, scalable, and maintainable backend systems.
+I am **Muhammed Soliman**, a Software Engineer specializing in building high-performance, scalable, and maintainable systems.
 
-With **over 5 years** of hands-on experience, I focus on **System Design**, **Software Architecture**, **Clean Code**, and **Design Patterns**. I combine strong low-level expertise in C/C++ and Linux environments with modern enterprise development using .NET, Python, PHP, Laravel, Django, and Node.js/Express.
+With **over 5 years** of hands-on experience, I focus on **System Design**, **Software Architecture**, **Clean Code**, and **Design Patterns**. I combine strong low-level expertise in C/C++ and Linux environments with modern full-stack development using .NET, Python, PHP/Laravel, Django, Node.js/Express, and modern frontend technologies.
 
 * 🔭 **Currently Focusing On:** High-Performance Backend, Microservices, and Scalable Systems  
 * 💻 **Core Expertise:** System Design, Clean Code, Design Patterns, and Performance Optimization  
@@ -35,6 +35,12 @@ With **over 5 years** of hands-on experience, I focus on **System Design**, **So
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Frontend & UI**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Databases & DevOps**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
