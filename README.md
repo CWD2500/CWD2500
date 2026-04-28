@@ -13,8 +13,8 @@ I am Muhammed Soliman <b>Software Engineer</b> with over <b>7.5 years</b> of dee
 * 🔭 **Current Focus:** High-performance Backend Services & Microservices
 * 💻 **Low-Level Mastery:** Expert in **C/C++** and Linux Kernel environments
 * 🏗️ **Architecture:** Specialist in **Enterprise-grade** solutions using .NET & Python
-* 📚 **Currently Learning:** Rust, WebAssembly, Kubernetes
-* 🎯 **2025 Goals:** Contribute more to Open Source & Build a SaaS product
+* 📚 **Currently Learning:** Rust, WebAssembly
+* 🎯 **2026 Goals:** Contribute more to Open Source & Build a SaaS product
 * 💬 **Ask me about:** System Design, Performance Optimization, Clean Architecture
 * ⚡ **Fun fact:** I debug code with coffee ☕ and logic 🧠
 
