@@ -6,13 +6,13 @@
 
 ### 👋 About Me
 
-I am **Muhammed Soliman**, a Software Engineer specializing in building high-performance systems and scalable architectures.
+I am **Muhammed Soliman**, a Software Engineer specializing in building high-performance, scalable, and maintainable backend systems.
 
-With **over 5 years** of hands-on experience, I design and develop robust backend systems with a strong focus on low-level performance and efficiency. I combine solid expertise in C/C++ and Linux environments with modern enterprise solutions using .NET, Python, PHP, and Node.js.
+With **over 5 years** of hands-on experience, I focus on **System Design**, **Software Architecture**, **Clean Code**, and **Design Patterns**. I combine strong low-level expertise in C/C++ and Linux environments with modern enterprise development using .NET, Python, PHP, Laravel, Django, and Node.js/Express.
 
 * 🔭 **Currently Focusing On:** High-Performance Backend, Microservices, and Scalable Systems  
-* 💻 **Core Expertise:** C/C++, System Programming, and Performance Optimization  
-* 🏗️ **Architectural Focus:** Clean Architecture, Domain-Driven Design, and Enterprise-Grade Systems  
+* 💻 **Core Expertise:** System Design, Clean Code, Design Patterns, and Performance Optimization  
+* 🏗️ **Architectural Focus:** Clean Architecture, Domain-Driven Design (DDD), and Enterprise-Grade Systems  
 * 📚 **Currently Learning:** Rust and WebAssembly  
 * 🎯 **2026 Goals:** Contribute more actively to Open Source and build my own SaaS product  
 
@@ -26,7 +26,7 @@ With **over 5 years** of hands-on experience, I design and develop robust backen
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Backend Frameworks & Enterprise**
+**Backend Frameworks**
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
