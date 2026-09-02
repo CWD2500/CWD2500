@@ -8,7 +8,7 @@
 
 I am **Muhammed Soliman**, a Software Engineer specializing in building high-performance, scalable, and maintainable systems.
 
-With **over 5 years** of hands-on experience, I focus on **System Design**, **Software Architecture**, **Clean Code**, and **Design Patterns**. I combine strong low-level expertise in C/C++ and Linux environments with modern full-stack development using .NET, Python, PHP/Laravel, Django, Node.js/Express, and modern frontend technologies.
+With **over 3+ years** of hands-on experience, I focus on **System Design**, **Software Architecture**, **Clean Code**, and **Design Patterns**. I combine strong low-level expertise in C/C++ and Linux environments with modern full-stack development using .NET, Python, PHP/Laravel, Django, Node.js/Express, and modern frontend technologies.
 
 * 🔭 **Currently Focusing On:** High-Performance Backend, Microservices, and Scalable Systems  
 * 💻 **Core Expertise:** System Design, Clean Code, Design Patterns, and Performance Optimization  
